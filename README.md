@@ -2,6 +2,9 @@
 
 Aquest repositori conté informació recollida mitjançant web scraping sobre les activitats solidàries organitzades a Catalunya per a la Marató de TV3 2023.
 
+![image](https://github.com/anthonyswords/ScrappingMaratoTV3/assets/55438709/3f34e8d5-d147-4951-99f7-a163bb76ee2b)
+
+
 ## Estructura del Repositori
 
 - `laMarato_Scrapping2023.ipnyb`: Codi Python per realitzar el web scraping i recopilar la informació de les activitats.
