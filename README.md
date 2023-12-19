@@ -39,7 +39,8 @@ else:
     print(f"La comarca '{comarca_interes}' no existeix a les dades.")
 ```
 
-Contribucions i Suport
+## Contribucions i Suport
+
 Si tens suggeriments, millores o vols contribuir amb més informació, si us plau, obre un issue o envia una pull request. També pots contactar amb nosaltres si necessites assistència.
 
 Aquest projecte és proporcionat amb l'esperança que sigui útil per a altres que vulguin conèixer i participar en les activitats solidàries de la Marató de TV3 2023.
